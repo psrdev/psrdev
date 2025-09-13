@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Pravin Singh Rana (He/Him)
 
-## Full Stack Developer | Laravel Enthusiast | MERN & LAMP Stack Expert
+## Full Stack Developer 
 
-I’m a passionate **Full Stack Developer** with over **8 years of hands-on experience** building dynamic web applications and scalable systems. My journey spans **Laravel**, **MERN**, **LAMP stacks**, and everything in between! I thrive on solving complex challenges and optimizing performance while ensuring the best user experience possible.
+ **Full Stack Developer** a hardcore beliver in mastering the fundamental insted of learning the framework the knowladge of fundamentels is transferbale accross the stacks.
 
 ### 💼 Currently, I'm with **OutMazed®** as a Full-stack Developer.  
 Here, I create impactful web apps and automate systems that make life easier for both users and businesses. I’m deeply involved in **Laravel**, **API integration**, and continuous optimization to ensure that our applications perform flawlessly.
@@ -13,7 +13,7 @@ Here, I create impactful web apps and automate systems that make life easier for
 - Building full-stack applications from the ground up (or improving existing systems!)
 - Writing clean, maintainable code with a focus on **performance optimization**.
 - Integrating third-party **APIs** to bring more features to the table.
-- Leveraging tools like **Tailwind CSS** for rapid UI development.
+- Leveraging tools like **CSS,HTML,Javascript** for rapid UI development.
 
 ### 🛠️ Technologies I Work With:
 - **Back-End**: Laravel, Node.js, PHP
